@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'blog',
     'crispy_forms',
     'django_summernote',
+    'django.contrib.sitemaps',
 ]
 
 MIDDLEWARE = [
